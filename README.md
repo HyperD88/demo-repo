@@ -1,3 +1,3 @@
-# demo
+# Demo!
 
-Some plaint text description
+Some plain text description!
